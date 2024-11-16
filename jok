@@ -1,0 +1,41 @@
+<html>
+    <body style="font-family:arial; background: #000080; color:white">
+    <title>Все обо Zibby32EXE</title>
+    <header>
+        <a href="#whatidid" style="color: white">Что я сделал?</a>
+    <a href="#whataboutmeinreallife" style="color: white">Что обо мне в реальности?</a>
+    <img src="https://i.postimg.cc/XJ6Hj2k1/zibby-s-logo.png"/>
+    </header>
+    <main>
+        <h4 id="space">Привет всем, я Zibby32EXE - самый наихудший наилучший создатель игр (возможно, скоро и создатель мультиков) на Scratch. <br> Время пройтись по мне! (моей биографии)!</h4>
+         <img src="https://gobrite.io/wp-content/uploads/2021/07/scratch-og-1024x538.png" width="700px" height="400px">
+         <h1 id="whatidid">Что я сделал?</h1>
+            <h3>синее: закончено, <br>жёлтое: планируется, <br>зелёное: в разработке, <br>серое: приостановлена разработка, <br>красное: отмененно</h3>
+         <p style="color: blue">THE COMPLEX (a.k.a. Комплекс вечности)</p>
+         <p style="color: yellow">Seas of Treasures (a.k.a. симулятор водолаза-искателя сокровищей)</p>
+<h1 id="whataboutmeinreallife">Что обо мне в реальности?</h1>
+         <table>
+            <tr>
+                <td>Дата рождения</td>
+                <td>Отношение мамы</td>
+                <td>Отношение папы</td>
+            </tr>
+            <tr>
+                <td>16 октября 2013 года</td>
+                <td>Немного положительное</td>
+                <td>Обычно нейтральное (иногда положительное, иногда отрицательное)</td>
+            </tr>
+         </table>
+    </main>
+    <footer>
+        <h1>Я СВОЙ ДОМ И ТЕЛЕФОН НЕ БУДУ ГОВОРИТЬ! А ТО ВЫ НАНЕСЁТЕ АВИА-УДАР НА МОЙ ДОМ ИЛИ БУДЕТЕ ПОСТОЯННО ЗВОНИТЬ!</h1>
+        <a href="#space" style="color:lightblue">В НАЧАЛО!</a>
+        <h1>ОСТАВЬТЕ ТУТ СВОЙ ОТЗЫВ!</h1>
+        <form>
+<p><label>Ваш ник (обьязательно и не писать имя!):<input type="text"></label></p>
+<p><label>Пишите тут ОТЗЫВ!<input type="text"></label></p>
+<p><label>При отправке вы принимаете то, что вас могут забанить за нецензурную лексику!<input type="button" value="ОТПРАВИТЬ ОТЗЫВ!"></label></p>
+        </form>
+    </footer>
+</body>
+</html>
